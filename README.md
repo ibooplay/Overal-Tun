@@ -1,5 +1,7 @@
-[README.md](https://github.com/user-attachments/files/34681890/README.md)
+[Uploading README (2).md…]()
 <div align="center">
+
+<img src="assets/logo.png" alt="Over-Tun" width="150">
 
 # Over-Tun
 
